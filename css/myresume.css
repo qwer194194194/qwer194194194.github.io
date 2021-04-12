@@ -33,3 +33,9 @@ p.lead {
 a {
 	color:#f57f00;
 }
+
+ol>li:hover{
+	background-color:#deb43d;
+}
+
+table {width: 80%;}
